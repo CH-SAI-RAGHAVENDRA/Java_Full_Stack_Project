@@ -44,7 +44,7 @@ const LandingPage = () => {
               fontSize: isSmallScreen ? '2rem' : 'clamp(2rem, 5vw, 3rem)',
             }}
           >
-            Welcome to Employee Management System
+            Welcome to DreamWorld
           </Typography>
           <Typography
             variant="h6"
